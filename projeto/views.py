@@ -5,4 +5,4 @@ def test_view(request):
     return HttpResponse("Teste de view funcionando!")
 
 def home_view(request):
-    return httpResponse("Bem-vindo à página inicial!")
+    return HttpResponse("Bem-vindo à página inicial!")
