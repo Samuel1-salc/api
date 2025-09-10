@@ -1,0 +1,6 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="512" height="512" rx="64" fill="#007bff"/>
+<path d="M256 384c70.69 0 128-57.31 128-128s-57.31-128-128-128-128 57.31-128 128 57.31 128 128 128z" fill="white"/>
+<path d="M256 320c35.35 0 64-28.65 64-64s-28.65-64-64-64-64 28.65-64 64 28.65 64 64 64z" fill="#007bff"/>
+<text x="256" y="450" text-anchor="middle" fill="white" font-size="36" font-family="Arial">GymFit</text>
+</svg>
