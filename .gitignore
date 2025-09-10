@@ -1,4 +1,5 @@
 # Python
+staticfiles/
 __pycache__/
 *.pyc
 *.pyo
